@@ -1,3 +1,4 @@
 Saludo!
 Saludo desde español
 Saludos desde frances
+saludos desde japones
